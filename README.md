@@ -90,14 +90,16 @@ Detail view showing the GDP-tier legend and Gini bubble scale used to encode the
 
 ![Map legend detail — GDP tier shading and Gini bubble scale](screenshots/02_hook_map_legend.png)
 
-### H1 — Growth vs. Inequality *(in progress)*
-Region-group "snail plot" tracing each region's trajectory through GDP-per-capita × Gini(disposable) space over time — each trail shows a region moving (or not) toward lower inequality as it grows richer.
+### H1 — Growth vs. Inequality 
+This dashboard investigates whether regions that grow richer also become more equal, combining a longitudinal view with a comparative one so both the shape of each region's path and the strength of the relationship across regions are visible at a glance.
 
-![Snail plot of GDP per capita vs. Gini(disposable) by region group](screenshots/03_h1_snailplot_region_group.png)
+A snail plot traces each region's trajectory through GDP-per-capita × Gini(disposable) space over time, showing whether a region has moved toward lower inequality as it grew richer, stayed flat, or moved the other way.
+A ranked correlation bar chart quantifies that relationship per region, ordering regions by the strength and direction of their growth–inequality correlation and anchoring the first level of a three-level drill-down (category → region → country).
+### Image 1
+![Snail plot of GDP per capita vs. Gini(disposable) by region group](screenshots/H1(1).png)
+### Image 2
+![Growth vs. inequality correlation, ranked by region](screenshots/H2(2).png)
 
-Ranked correlation bar chart — the growth–inequality relationship's strength and direction by region, part of the three-level (category → region → country) drill-down.
-
-![Growth vs. inequality correlation, ranked by region](screenshots/04_h1_correlation_by_region.png)
 
 ## Project Status
 
