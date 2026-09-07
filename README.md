@@ -104,8 +104,8 @@ Ranked correlation bar chart — the growth–inequality relationship's strength
 - [x] Data pipeline — extract, clean, standardize, merge, validate
 - [x] PostgreSQL schema and validation suite
 - [x] Hook / landing dashboard
-- [ ] H1 dashboard (growth vs. inequality) — in progress
-- [ ] H2 dashboard (redistribution)
+- [x] H1 dashboard (growth vs. inequality) 
+- [ ] H2 dashboard (redistribution) — in progress
 - [ ] H3 dashboard (income share gap)
 - [ ] H4 dashboard (growth vs. poverty)
 - [ ] Plotly animated visualizations
